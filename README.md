@@ -24,7 +24,7 @@ Full-Stack Developer | Builder of Scalable Web Platforms | Tech Explorer
 
 - Led a full-stack CMS revamp with Next.js & TypeScript, boosting user satisfaction by 60% and reducing codebase size by 70%.
 - Deployed FAST Channel ($2M product) using React, GraphQL, and TailwindCSS, increasing engagement by 20%.
-- Automated CI/CD with Jenkins, Docker, AWS EKS, and Helm, cutting deployment time by 40%.
+- Automated CI/CD of revamped CMS with Jenkins, Docker, AWS EKS, and Helm, cutting deployment time by 40%.
 
 ### Software Engineer @ NexGen Tech Solutions  
 *Jan 2021 – May 2023, Haryana, India*
@@ -35,7 +35,7 @@ Full-Stack Developer | Builder of Scalable Web Platforms | Tech Explorer
 
 ---
 
-## rojects
+## Projects
 
 ### Drone Telemetry Simulator  
 **Stack:** Node.js, Express, TimescaleDB, React, TailwindCSS, Docker  
