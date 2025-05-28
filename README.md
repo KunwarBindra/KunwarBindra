@@ -30,7 +30,7 @@ Full-Stack Developer | Builder of Scalable Web Platforms | Tech Explorer
 *Jan 2021 – May 2023, Haryana, India*
 
 - Built responsive UIs for Hoichoi (10M+ users), improving load times by 50% through code splitting & lazy loading.
-- Developed 20+ REST APIs using Node.js and MongoDB, reducing response time by 40%.
+- Developed 20+ REST APIs using Node.js and MongoDB, optimizing queries, indexing, and caching to cut response time by 40%.
 - Achieved 95% on-time delivery, resolving 80% of critical issues within 24 hours.
 
 ---
