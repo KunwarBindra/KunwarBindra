@@ -23,7 +23,7 @@ Full-Stack Developer | Builder of Scalable Web Platforms | Tech Explorer
 *Jun 2023 – Sep 2024, Haryana, India*
 
 - Led a full-stack CMS revamp with Next.js & TypeScript, boosting user satisfaction by 60% and reducing codebase size by 70%.
-- Deployed FAST Channel ($2M product) using React, GraphQL, and TailwindCSS, increasing engagement by 20%.
+- Created OTT FAST service ($2M product) using React, GraphQL, and TailwindCSS, increasing engagement by 20%.
 - Automated CI/CD of revamped CMS with Jenkins, Docker, AWS EKS, and Helm, cutting deployment time by 40%.
 
 ### Software Engineer @ NexGen Tech Solutions  
