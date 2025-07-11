@@ -19,19 +19,19 @@ Full-Stack Developer | Builder of Scalable Web Platforms | Tech Explorer
 
 ## Experience
 
-### Senior Software Engineer @ NexGen Tech Solutions  
+### Senior Full-Stack Engineer @ NexGen Tech Solutions  
 *Jun 2023 – Sep 2024, Haryana, India*
 
-- Led a full-stack CMS revamp with Next.js & TypeScript, boosting user satisfaction by 60% and reducing codebase size by 70%.
-- Created OTT FAST service ($2M product) using React, GraphQL, and TailwindCSS, increasing engagement by 20%.
-- Automated CI/CD of revamped CMS with Jenkins, Docker, AWS EKS, and Helm, cutting deployment time by 40%.
+- Led a full-scale rewrite of the legacy OTT CMS platform using TypeScript and Next.js modernizing architecture and rebuilding core features like RBAC, content curation, monetization integration, and large media uploads, reducing codebase size by 70%.
+- Implemented CI/CD pipelines using Jenkins, Docker, AWS ECR, and Helm, enabling seamless Kubernetes deployments to Amazon EKS, accelerating release cycles by 40% and reducing manual deployment efforts by 60%.
+- Designed and launched a $2M FAST Channel service using React.js, GraphQL, and Tailwind CSS, featuring drag-and-drop video content reordering, automated scheduling, and ad monetization, boosting viewer engagement by 20%.
 
-### Software Engineer @ NexGen Tech Solutions  
+### Full-Stack Engineer @ NexGen Tech Solutions  
 *Jan 2021 – May 2023, Haryana, India*
 
-- Built responsive UIs for Hoichoi (10M+ users), improving load times by 50% through code splitting & lazy loading.
-- Engineered 20+ high-performance RESTful APIs with Node.js and MongoDB, achieving a 40% drop in response time through query optimization and caching.
-- Achieved 95% on-time delivery, resolving 80% of critical issues within 24 hours.
+- Constructed responsive UIs for Hoichoi, a Bengali video streaming platform with 10M+ users, using React, JavaScript, HTML, and CSS, implementing lazy loading and code splitting to improve FCP and TTI scores by 50%.
+- Developed 15+ RESTful APIs using Node.js and MongoDB for Hoichoi’s user account system, optimizing queries, indexing, and caching, reducing average response time by 40%.
+- Collaborated with cross-functional teams to deliver features, while resolving 80% of critical issues within 24 hours and contributing to a 95% on-time delivery rate.
 
 ---
 
@@ -39,20 +39,20 @@ Full-Stack Developer | Builder of Scalable Web Platforms | Tech Explorer
 
 ### Drone Telemetry Simulator  
 **Stack:** Node.js, Express, TimescaleDB, React, TailwindCSS, Docker  
-- Simulates a fleet of 5 autonomous drones sending telemetry (battery %, GPS, sensor data) to TimescaleDB every 10 seconds.  
-- React-based dashboard visualizes battery levels with adjustable time windows.  
+- Simulated a fleet of 5 autonomous drones sending telemetry (battery %, GPS, sensor data) to TimescaleDB every 10 seconds.  
+- React-based dashboard visualized battery levels with adjustable time windows.  
 - Entire system containerized via Docker Compose for easy deployment and scalability.  
 - Ideal for testing real-time data ingestion and visualization.
 
 ### FastAPI Real-Time OMS  
 **Stack:** FastAPI, PostgreSQL, WebSocket, Docker, AWS EC2  
-- Built a live order management system with FastAPI, async handling, and WebSockets—improving order processing time by 30%.  
-- Containerized with Docker, deployed securely on EC2, and CI/CD integrated via GitHub Actions & Docker Hub.
+- Devised a real-time order management system using FastAPI and WebSocket for live updates, PostgreSQL with SQLAlchemy for a scalable backend, and asynchronous handling, cutting update latency by 35% under peak load.  
+- Containerized the application using Docker and deployed it on AWS EC2; streamlined CI/CD with GitHub Actions and Docker Hub, cutting deployment time by 50%. Ensured secure delivery via SSH and EC2 security groups, maintaining 99.9% uptime.
 
 ### MemoryLane AI  
 **Stack:** Next.js, TypeScript, Material UI, Whisper API, Vercel  
-- Developed a memory journaling app for dementia patients, using Generative AI for creating personalized albums.  
-- Integrated OpenAI's Whisper for audio transcription (500+ events), improving accessibility and research usability.
+- Created a platform for individuals with Dementia using Next.js, TypeScript, and Material UI; enabling users to record and organize memory events, and generate personalized photo albums with images powered by GPT-4-based DALL·E 3.  
+- Integrated OpenAI’s Whisper API for audio-to-text conversion, transcribing 500+ memory event recordings to enhance research accessibility, and set up a CI/CD pipeline on Vercel to ensure efficient platform deployment.
 
 ---
 
