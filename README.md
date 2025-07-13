@@ -12,6 +12,7 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 **Frontend:** HTML, CSS, Tailwind CSS, Material UI, React, NextJS, Webpack, Babel, Redux, Context API, Jest  
 **Backend:** Apache Kafka, NodeJS, ExpressJS, FastAPI, REST, GraphQL, Postman  
 **Databases:** PostgreSQL, MySQL, MongoDB, TimescaleDB
+
 **Data Analysis:** Pandas, Matplotlib, Seaborn, Plotly
 **DevOps:** Git, GitHub Actions, Jenkins, Vercel, AWS, Docker, Kubernetes  
 **Testing:** Jest, JUnit  
