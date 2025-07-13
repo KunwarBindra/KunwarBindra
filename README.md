@@ -19,6 +19,13 @@ Full-Stack Developer | Builder of Scalable Web Platforms | Tech Explorer
 
 ## Experience
 
+### Frontend Engineer Lead Intern @ Medlaunch Concepts  
+*Jun 2025 – Present, Florida, United States*
+
+- Spearheaded frontend development of a HIPAA-compliant healthcare accreditation portal using React and TypeScript, delivering reusable components across 15+ modules, including data-driven forms, maps, and analytics dashboards.
+- Orchestrated a OneDrive-based document repository using Microsoft Graph APIs and OAuth 2.0, enabling secure, role-based file sharing and streamlining document exchange for 100% of client hospitals.
+- Oversaw code quality and team velocity by mentoring 2 associate developers, conducting code reviews, and contributing to sprint planning in a cross-functional, early-stage startup environment.
+
 ### Senior Full-Stack Engineer @ NexGen Tech Solutions  
 *Jun 2023 – Sep 2024, Haryana, India*
 
