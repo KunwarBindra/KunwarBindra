@@ -8,11 +8,12 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Java, Python  
-**Frontend:** React.js, Next.js, Redux, HTML, CSS, TailwindCSS, Webpack, Material UI  
-**Backend:** Node.js, Express.js, FastAPI, GraphQL, REST, SOAP  
-**Databases:** PostgreSQL, MySQL, MongoDB, TimescaleDB  
-**DevOps & Tools:** GitHub Actions, AWS (EC2, EKS, ECR), Docker, Kubernetes, Jenkins, Vercel, Postman, JIRA  
+**Languages:** Java, JavaScript, TypeScript, Python  
+**Frontend:** HTML, CSS, Tailwind CSS, Material UI, React, NextJS, Webpack, Babel, Redux, Context API, Jest  
+**Backend:** Apache Kafka, NodeJS, ExpressJS, FastAPI, REST, GraphQL, Postman  
+**Databases:** PostgreSQL, MySQL, MongoDB, TimescaleDB
+**Data Analysis:** Pandas, Matplotlib, Seaborn, Plotly
+**DevOps:** Git, GitHub Actions, Jenkins, Vercel, AWS, Docker, Kubernetes  
 **Testing:** Jest, JUnit  
 
 ---
