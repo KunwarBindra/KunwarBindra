@@ -29,16 +29,16 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 ### Senior Full-Stack Engineer @ NexGen Tech Solutions  
 *Jun 2023 – Sep 2024, Haryana, India*
 
-- Led a full-scale rewrite of the legacy OTT CMS platform using TypeScript and Next.js modernizing architecture and rebuilding core features like RBAC, content curation, monetization integration, and large media uploads, reducing codebase size by 70%.
-- Implemented CI/CD pipelines using Jenkins, Docker, AWS ECR, and Helm, enabling seamless Kubernetes deployments to Amazon EKS, accelerating release cycles by 40% and reducing manual deployment efforts by 60%.
-- Designed and launched a $2M FAST Channel service using React.js, GraphQL, and Tailwind CSS, featuring drag-and-drop video content reordering, automated scheduling, and ad monetization, boosting viewer engagement by 20%.
+- Led the full-scale rewrite of a legacy OTT CMS using TypeScript, Next.js, Node.js, and Kafka, modernizing architecture and rebuilding key features like RBAC, live streaming, monetization integration, and S3 uploads, reducing codebase size by 70%.
+- Implemented CI/CD pipelines using Jenkins, Docker, Helm, and ArgoCD to enable seamless Kubernetes deployments on Amazon EKS, accelerating release cycles by 40% and reducing manual deployment efforts by 60%.
+- Designed and launched a $2M FAST Channel platform using React.js, MUI, Node.js, GraphQL, and PostgreSQL featuring drag-and-drop video content reordering, automated channel scheduling, and ad monetization, boosting subscriptions by 20%.
 
 ### Full-Stack Engineer @ NexGen Tech Solutions  
 *Jan 2021 – May 2023, Haryana, India*
 
-- Constructed responsive UIs for Hoichoi, a Bengali video streaming platform with 10M+ users, using React, JavaScript, HTML, and CSS, implementing lazy loading and code splitting to improve FCP and TTI scores by 50%.
-- Developed 15+ RESTful APIs using Node.js and MongoDB for Hoichoi’s user account system, optimizing queries, indexing, and caching, reducing average response time by 40%.
-- Collaborated with cross-functional teams to deliver features, while resolving 80% of critical issues within 24 hours and contributing to a 95% on-time delivery rate.
+- Constructed responsive UIs for Hoichoi, a Bengali video streaming platform with 10M+ users, using JavaScript, React, Redux, HTML, and Tailwind CSS, implementing lazy loading and code splitting to improve FCP and TTI scores by 50%.
+- Developed 15+ RESTful APIs using Node.js and DynamoDB for Hoichoi’s user account system, optimizing queries, indexing, and Redis caching, reducing average response time by 40%.
+- Collaborated with UI/UX design teams to translate Figma designs into pixel-perfect, responsive interfaces, ensuring 100% design fidelity across key screens and accelerating design handoff by 40%.
 
 ---
 
