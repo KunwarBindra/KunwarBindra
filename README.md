@@ -26,14 +26,14 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 - Orchestrated a OneDrive-based document repository using Microsoft Graph APIs and OAuth 2.0, enabling secure, role-based file sharing and streamlining document exchange for 100% of client hospitals.
 - Oversaw code quality and team velocity by mentoring 2 associate developers, conducting code reviews, and contributing to sprint planning in a cross-functional, early-stage startup environment.
 
-### Senior Full-Stack Engineer @ NexGen Tech Solutions  
+### Senior Software Engineer @ NexGen Tech Solutions  
 *Jun 2023 – Sep 2024, Haryana, India*
 
 - Led the full-scale rewrite of a legacy OTT CMS using TypeScript, Next.js, Node.js, and Kafka, modernizing architecture and rebuilding key features like RBAC, live streaming, monetization integration, and S3 uploads, reducing codebase size by 70%.
 - Implemented CI/CD pipelines using Jenkins, Docker, Helm, and ArgoCD to enable seamless Kubernetes deployments on Amazon EKS, accelerating release cycles by 40% and reducing manual deployment efforts by 60%.
 - Designed and launched a $2M FAST Channel platform using React.js, MUI, Node.js, GraphQL, and PostgreSQL featuring drag-and-drop video content reordering, automated channel scheduling, and ad monetization, boosting subscriptions by 20%.
 
-### Full-Stack Engineer @ NexGen Tech Solutions  
+### Software Engineer @ NexGen Tech Solutions  
 *Jan 2021 – May 2023, Haryana, India*
 
 - Constructed responsive UIs for Hoichoi, a Bengali video streaming platform with 10M+ users, using JavaScript, React, Redux, HTML, and Tailwind CSS, implementing lazy loading and code splitting to improve FCP and TTI scores by 50%.
