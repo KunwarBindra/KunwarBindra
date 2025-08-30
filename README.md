@@ -29,7 +29,7 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 ### Senior Software Engineer @ NexGen Tech Solutions  
 *Jun 2023 – Sep 2024, Haryana, India*
 
-- Led the full-scale rewrite of a legacy OTT CMS using TypeScript, Next.js, Node.js, and Kafka, modernizing architecture and rebuilding key features like RBAC, live streaming, monetization integration, and S3 uploads, reducing codebase size by 70%.
+- Led the full-scale rewrite of a legacy OTT CMS using Python, TypeScript, React, Node.js, and Kafka, modernizing architecture and rebuilding key features like RBAC, live streaming, monetization integration, and S3 uploads, reducing codebase size by 70%.
 - Implemented CI/CD pipelines using Jenkins, Docker, Helm, and ArgoCD to enable seamless Kubernetes deployments on Amazon EKS, accelerating release cycles by 40% and reducing manual deployment efforts by 60%.
 - Designed and launched a $2M FAST Channel platform using React.js, MUI, Node.js, GraphQL, and PostgreSQL featuring drag-and-drop video content reordering, automated channel scheduling, and ad monetization, boosting subscriptions by 20%.
 
