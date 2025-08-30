@@ -19,7 +19,7 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 
 ## Experience
 
-### Frontend Engineer Lead Intern @ Medlaunch Concepts  
+### Software Engineer Lead Intern @ Medlaunch Concepts  
 *Jun 2025 – Present, Florida, United States*
 
 - Spearheaded frontend development of a HIPAA-compliant healthcare accreditation portal using React and TypeScript, delivering reusable components across 15+ modules, including data-driven forms, maps, and analytics dashboards.
