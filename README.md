@@ -6,7 +6,9 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 
 ## GitHub Stats
 
-![Kunwarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunwarBindra&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com?user=KunwarBindra&theme=tokyonight)
+![Kunwarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunwarBindra&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KunwarBindra&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KunwarBindra&theme=tokyo-night)
 
