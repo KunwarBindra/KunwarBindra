@@ -10,8 +10,6 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunwarBindra&layout=compact&theme=default&langs_count=10&hide=jupyter%20notebook,html,css,pug,dockerfile,ejs&v=2)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KunwarBindra&theme=default&date_format=j%20M%5B%20Y%5D&v=2)
-
 ---
 
 ## Tech Stack
