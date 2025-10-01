@@ -4,6 +4,12 @@ Master’s in Software Engineering @ University of California, Irvine (GPA: 3.96
 Frontend Engineer Lead at Medlaunch Concepts  
 Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 
+## GitHub Stats
+
+![Kunwarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunwarBindra&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com?user=KunwarBindra&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KunwarBindra&theme=tokyo-night)
+
 ---
 
 ## Tech Stack
@@ -55,11 +61,6 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 **Stack:** FastAPI, PostgreSQL, WebSocket, Docker, AWS EC2  
 - Devised a real-time order management system using FastAPI and WebSocket for live updates, PostgreSQL with SQLAlchemy for a scalable backend, and asynchronous handling, cutting update latency by 35% under peak load.  
 - Containerized the application using Docker and deployed it on AWS EC2; streamlined CI/CD with GitHub Actions and Docker Hub, cutting deployment time by 50%. Ensured secure delivery via SSH and EC2 security groups, maintaining 99.9% uptime.
-
-### MemoryLane AI  
-**Stack:** Next.js, TypeScript, Material UI, Whisper API, Vercel  
-- Created a platform for individuals with Dementia using Next.js, TypeScript, and Material UI; enabling users to record and organize memory events, and generate personalized photo albums with images powered by GPT-4-based DALL·E 3.  
-- Integrated OpenAI’s Whisper API for audio-to-text conversion, transcribing 500+ memory event recordings to enhance research accessibility, and set up a CI/CD pipeline on Vercel to ensure efficient platform deployment.
 
 ---
 
