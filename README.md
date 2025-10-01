@@ -1,7 +1,7 @@
 # Hi there, I'm Kunwarjeet Singh Bindra
 
 Master’s in Software Engineering @ University of California, Irvine (GPA: 3.96)  
-Frontend Engineer Lead at Medlaunch Concepts  
+Early Engineer, Frontend at Medlaunch Concepts  
 Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 
 ## GitHub Stats
