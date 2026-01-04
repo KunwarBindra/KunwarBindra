@@ -1,14 +1,8 @@
 # Hi there, I'm Kunwarjeet Singh Bindra
-
-Master’s in Software Engineering @ University of California, Irvine (GPA: 3.96)  
-Early Engineer, Frontend at Medlaunch Concepts  
-Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
-
-## GitHub Stats
-
-![Kunwarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunwarBindra&show_icons=true&theme=default&include_all_commits=true&v=2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunwarBindra&layout=compact&theme=default&langs_count=10&hide=jupyter%20notebook,html,css,pug,dockerfile,ejs&v=2)
+  
+Full-Stack Engineer · UC Irvine Alum<br/>
+Ex-Senior Software Engineer @ NexGen Tech Solutions<br/>
+Prev SWE Intern @ DiligenceSquared (YC F25), Medlaunch Concepts
 
 ---
 
@@ -24,6 +18,11 @@ Full-Stack Engineer | Builder of Scalable Web Platforms | Tech Explorer
 ---
 
 ## Projects
+
+### AgentOverflow AI Coder  
+**Stack:** Python, FastAPI, Gemini, MCP, React, TypeScript, Docker 
+- Constructed multi-agent AI system (6 agents managed via MCP) that auto-generates full-stack apps (Next.js/React, 30-50+ files) with 85% cost savings via intelligent batch processing and request-response loops - Python/FastAPI, React/TypeScript.
+- Developed AI modification analyzer performing surgical code updates (2-3 targeted files) with context-aware dependency tracking, real-time SSE streaming for live progress, and Docker-based sandboxed execution with dynamic port allocation.
 
 ### Drone Telemetry Simulator  
 **Stack:** Node.js, Express, TimescaleDB, React, TailwindCSS, Docker  
