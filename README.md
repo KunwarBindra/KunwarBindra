@@ -8,12 +8,13 @@ Prev SWE Intern @ DiligenceSquared (YC F25), Medlaunch Concepts
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Java, Python  
-**Frontend:** React.js, Next.js, Redux, HTML, CSS, TailwindCSS, Webpack, Material UI  
-**Backend:** Node.js, Express.js, FastAPI, GraphQL, REST, SOAP  
-**Databases:** PostgreSQL, MySQL, MongoDB, TimescaleDB  
-**DevOps & Tools:** GitHub Actions, AWS (EC2, EKS, ECR), Docker, Kubernetes, Jenkins, Vercel, Postman, JIRA  
-**Testing:** Jest, JUnit  
+**Languages:** JavaScript, TypeScript, Java, Python<br>
+**Frontend:** React.js, Next.js, Redux, HTML, CSS, TailwindCSS, Webpack, Material UI<br>
+**Backend:** Spring Boot, Node.js, Express.js, Nest.js, FastAPI, GraphQL, REST, SOAP<br>
+**Databases:** PostgreSQL, MySQL, MongoDB, TimescaleDB<br>
+**CI/CD & DevOps:** GitHub Actions, Jenkins, ArgoCD, Vercel, Docker, Kubernetes, AWS, GCP, Terraform<br>
+**AI and Development Tools:** Postman, Swagger, Datadog, Jira, Kanban, Cursor AI, GitHub Copilot, Claude Code<br>
+**Testing:** Jest, JUnit<br>
 
 ---
 
