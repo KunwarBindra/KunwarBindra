@@ -1,8 +1,6 @@
 # Hi there, I'm Kunwarjeet Singh Bindra
   
 Full-Stack Engineer · UC Irvine Alum<br/>
-Ex-Senior Software Engineer @ NexGen Tech Solutions<br/>
-Prev SWE Intern @ DiligenceSquared (YC F25), Medlaunch Concepts
 
 ---
 
